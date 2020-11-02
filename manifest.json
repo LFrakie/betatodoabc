@@ -1,19 +1,19 @@
 {
-  "name": "SPWA lite",
-  "short_name": "SPWA lite",
+  "name": "Beta Todo ABC",
+  "short_name": "Beta Todo ABC",
   "description": "...descripción...",
   "start_url": "./index.html?utm=homescreen",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#A2FF00",
-  "theme_color": "#A2FF00",
+  "background_color": "#FFFFFF",
+  "theme_color": "#0046afe3",
   "icons": [{
       "src": "ico.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "./images/icons/android-chrome-512x512.png",
+      "src": "ico.png",
       "type": "image/png",
       "sizes": "512x512"
   }],
