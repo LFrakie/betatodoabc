@@ -23,6 +23,7 @@ var files = [
   './js/share.js',
   './js/menu.js',
   './manifest.json'
+  'https://todoabcjuliaca.blogspot.com/index.html'
 ];
 
 //Adding `install` event listener
